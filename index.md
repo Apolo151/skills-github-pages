@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: My GitHub Pages Blog
 ---
+
+A very thoughtful thinker.
 
